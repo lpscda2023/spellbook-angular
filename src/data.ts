@@ -245,7 +245,7 @@ export const posts: ListElement[] = [
         difficulty: 1,
       },
     ],
-  },*/
+  },
   {
     sectionName: 'Javascript - paramètre function',
     elements: [
@@ -255,7 +255,7 @@ export const posts: ListElement[] = [
         difficulty: 1,
       },
     ],
-  },
+  },*/
   {
     sectionName: '🧰 Autre',
     elements: [
