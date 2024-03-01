@@ -1,0 +1,9 @@
+<ul class="list-group">
+  <li class="list-group-item" *ngFor="let e of elements">
+    <a href="{{e.link}}" target="_blank" rel="noreferrer"> {{ e.title }} </a>
+    <div>
+      difficulty :
+      <app-difficulty-indicator [level]="e.difficulty" />
+    </div>
+  </li>
+</ul>

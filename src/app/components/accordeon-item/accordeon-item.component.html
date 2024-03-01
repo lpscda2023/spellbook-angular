@@ -1,0 +1,33 @@
+<div class="accordion-item">
+  <h2 class="accordion-header" [id]="'Accordeon' + ID">
+    <button
+      class="accordion-button collapsed"
+      type="button"
+      data-bs-toggle="collapse"
+      [attr.data-bs-target]="'#' + ID"
+      aria-expanded="false"
+      [attr.aria-controls]="ID"
+    >
+      {{ post.sectionName }}
+      <span class="ms-2 badge text-bg-primary">{{ post.elements.length }}</span>
+    </button>
+  </h2>
+  <div
+    [id]="ID"
+    class="accordion-collapse collapse"
+    [attr.aria-labelledby]="'headingOne' + ID"
+    data-bs-parent="#accordionExample"
+  >
+    <div class="accordion-body">
+      <ng-container *ngIf="post.elements.length > 0; else sorry">
+        <app-list-links [elements]=post.elements/>
+      </ng-container>
+      <ng-template #sorry>
+        <p>
+          Ca arrive bientôt...
+          <span role="img" aria-labelledby="sorry"> 😇 </span>
+        </p>
+      </ng-template>
+    </div>
+  </div>
+</div>

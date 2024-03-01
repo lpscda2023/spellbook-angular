@@ -1,0 +1,5 @@
+<i
+  *ngFor="let diff of difficultyLevel; index as index"
+  [ngClass]="{ 'bi-cup-hot-fill': index < level, 'bi-cup-hot': index >= level }"
+  style="fontSize: '1rem'"
+></i>
