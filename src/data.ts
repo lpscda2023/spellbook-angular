@@ -14,6 +14,11 @@ export const posts: ListElement[] = [
         link: 'https://stackblitz-starters-k8lepf.stackblitz.io',
         difficulty: 0,
       },
+      {
+        title: "Test a guard to access the admin's page",
+        link: 'https://stackblitz-starters-vpkopv.stackblitz.io',
+        difficulty: 2,
+      },
     ],
   },
   {
