@@ -9,6 +9,11 @@ export const posts: ListElement[] = [
         link: 'https://codesandbox.io/s/demo-jv-click-event-12rze1?file=/src/App.tsx',
         difficulty: 1,
       },
+      {
+        title: 'Route vers la page home',
+        link: 'https://stackblitz.com/edit/stackblitz-starters-kpn1se?file=src%2Fapp%2Fapp-routing.module.ts',
+        difficulty: 1,
+      }
     ],
   },
   {
