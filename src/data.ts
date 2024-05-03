@@ -14,6 +14,11 @@ export const posts: ListElement[] = [
         link: 'https://stackblitz-starters-k8lepf.stackblitz.io',
         difficulty: 0,
       },
+      {
+        title: 'Display a list of person from an array in my application',
+        link: 'https://stackblitz-starters-ybw6et.stackblitz.io',
+        difficulty: 3,
+      },
     ],
   },
   {
