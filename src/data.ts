@@ -20,7 +20,11 @@ export const posts: ListElement[] = [
         difficulty: 0,
       },
       {
-
+        title: 'Display data in HTML that came from TS',
+        link: 'https://stackblitz.com/edit/stackblitz-starters-c9hsvm?file=src%2Fapp%2Fapp.component.ts,src%2Fapp%2Fapp.component.html',
+        difficulty: 1,
+      },
+      {
         title: 'Display a list of person from an array in my application',
         link: 'https://stackblitz-starters-ybw6et.stackblitz.io',
         difficulty: 3,
