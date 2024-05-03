@@ -24,6 +24,7 @@ export const posts: ListElement[] = [
         link: 'https://stackblitz-starters-zpczzk.stackblitz.io',
         difficulty: 1
       },
+      {
         title: 'I want to use a Reactive form',
         link: 'https://stackblitz-starters-xjwvpp.stackblitz.io',
         difficulty: 2,
