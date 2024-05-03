@@ -14,6 +14,11 @@ export const posts: ListElement[] = [
         link: 'https://stackblitz-starters-k8lepf.stackblitz.io',
         difficulty: 0,
       },
+      {
+        title: 'Display data in HTML that came from TS',
+        link: 'https://stackblitz.com/edit/stackblitz-starters-c9hsvm?file=src%2Fapp%2Fapp.component.ts,src%2Fapp%2Fapp.component.html',
+        difficulty: 1,
+      },
     ],
   },
   {
