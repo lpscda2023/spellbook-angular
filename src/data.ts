@@ -11,8 +11,8 @@ export const posts: ListElement[] = [
       },
       {
         title: 'Route vers la page home',
-        link: 'https://stackblitz.com/edit/stackblitz-starters-kpn1se?file=src%2Fapp%2Fapp-routing.module.ts',
-        difficulty: 1,
+        link: 'https://stackblitz.com/edit/stackblitz-starters-kpn1se?file=src%2Fapp%2Fpage-home%2Fpage-home.component.html',
+        difficulty: 2,
       }
     ],
   },
