@@ -24,7 +24,7 @@ export const posts: ListElement[] = [
         link: 'https://stackblitz-starters-xjwvpp.stackblitz.io',
         difficulty: 2,
       },
-      }
+      {
         title: 'Display data in HTML that came from TS',
         link: 'https://stackblitz.com/edit/stackblitz-starters-c9hsvm?file=src%2Fapp%2Fapp.component.ts,src%2Fapp%2Fapp.component.html',
         difficulty: 1,
@@ -39,11 +39,11 @@ export const posts: ListElement[] = [
         link: 'https://stackblitz.com/edit/stackblitz-starters-kpn1se?file=src%2Fapp%2Fapp-routing.module.ts',
         difficulty: 1,
       },
-      
+
       {
         title: "make an input into the application's head",
         link: 'https://stackblitz.com/edit/stackblitz-starters-wnhj6u?file=src%2Fapp%2Fapp.component.html',
-        difficulty: 1,  
+        difficulty: 1,
       },
       {
         title: 'I want to react to a click even',
