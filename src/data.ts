@@ -7,7 +7,7 @@ export const posts: ListElement[] = [
       {
         title: 'réagir à un event click',
         link: 'https://codesandbox.io/s/demo-jv-click-event-12rze1?file=/src/App.tsx',
-        difficulty: 0,
+        difficulty: 1,
       },
     ],
   },
