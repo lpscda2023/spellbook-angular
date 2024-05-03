@@ -20,6 +20,11 @@ export const posts: ListElement[] = [
         difficulty: 0,
       },
       {
+        title: "Test a guard to access the admin's page",
+        link: 'https://stackblitz-starters-vpkopv.stackblitz.io',
+        difficulty: 2,
+      },
+      {
         title: 'I want to use a Reactive form',
         link: 'https://stackblitz-starters-xjwvpp.stackblitz.io',
         difficulty: 2,
