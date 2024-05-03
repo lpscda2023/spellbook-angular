@@ -20,9 +20,15 @@ export const posts: ListElement[] = [
         difficulty: 0,
       },
       {
+
         title: 'I want to use a template driven form',
         link: 'https://stackblitz-starters-zpczzk.stackblitz.io',
         difficulty: 1
+      },
+      {
+        title: "Test a guard to access the admin's page",
+        link: 'https://stackblitz-starters-vpkopv.stackblitz.io',
+        difficulty: 2,
       },
       {
         title: 'I want to use a Reactive form',
@@ -31,7 +37,7 @@ export const posts: ListElement[] = [
       },
       {
         title: 'Display data in HTML that came from TS',
-        link: 'https://stackblitz.com/edit/stackblitz-starters-c9hsvm?file=src%2Fapp%2Fapp.component.ts,src%2Fapp%2Fapp.component.html',
+        link: 'https://stackblitz.com/edit/stackblitz-starters-w6whhm?file=src%2Fapp%2Fapp.component.ts',
         difficulty: 1,
       },
       {
