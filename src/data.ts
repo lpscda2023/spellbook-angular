@@ -12,6 +12,11 @@ export const posts: ListElement[] = [
       {
         title: 'Route vers la page home',
         link: 'https://stackblitz.com/edit/stackblitz-starters-kpn1se?file=src%2Fapp%2Fpage-home%2Fpage-home.component.html',
+        difficulty: 1,
+      },
+      {
+        title: 'barre de recherche',
+        link: 'https://stackblitz.com/edit/stackblitz-starters-kpn1se?file=src%2Fapp%2Fpage-home%2Fpage-home.component.html',
         difficulty: 2,
       }
     ],
