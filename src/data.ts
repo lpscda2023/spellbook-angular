@@ -19,6 +19,11 @@ export const posts: ListElement[] = [
         link: 'https://stackblitz.com/edit/stackblitz-starters-c9hsvm',
         difficulty: 0,
       },
+      {
+        title: 'I want to react to a click even',
+        link: 'https://stackblitz.com/edit/stackblitz-starters-usgxxa',
+        difficulty: 0,
+      },
     ],
   },
 ];
