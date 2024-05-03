@@ -10,6 +10,11 @@ export const posts: ListElement[] = [
         difficulty: 0,
       },
       {
+        title: 'I want to use a reactive form',
+        link: 'https://stackblitz.com/edit/stackblitz-starters-rf7yii?file=src%2Fapp%2Fapp.module.ts',
+        difficulty: 0,
+      },
+      {
         title: 'Display a hello world message in my application',
         link: 'https://stackblitz-starters-k8lepf.stackblitz.io',
         difficulty: 0,
