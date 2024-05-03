@@ -14,6 +14,12 @@ export const posts: ListElement[] = [
         link: 'https://stackblitz-starters-k8lepf.stackblitz.io',
         difficulty: 0,
       },
+
+      {
+        title: "make an input into the application's head",
+        link: 'https://stackblitz.com/edit/stackblitz-starters-wnhj6u?file=src%2Fapp%2Fapp.component.html',
+        difficulty: 1,
+      }
     ],
   },
   {
