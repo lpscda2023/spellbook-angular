@@ -20,6 +20,11 @@ export const posts: ListElement[] = [
         difficulty: 0,
       },
       {
+        title: 'I want to use a Reactive form',
+        link: 'https://stackblitz-starters-xjwvpp.stackblitz.io',
+        difficulty: 2,
+      },
+      }
         title: 'Display data in HTML that came from TS',
         link: 'https://stackblitz.com/edit/stackblitz-starters-c9hsvm?file=src%2Fapp%2Fapp.component.ts,src%2Fapp%2Fapp.component.html',
         difficulty: 1,
