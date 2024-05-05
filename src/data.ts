@@ -20,6 +20,12 @@ export const posts: ListElement[] = [
         difficulty: 0,
       },
       {
+
+        title: 'I want to use a template driven form',
+        link: 'https://stackblitz-starters-zpczzk.stackblitz.io',
+        difficulty: 1
+      },
+      {
         title: "Test a guard to access the admin's page",
         link: 'https://stackblitz-starters-vpkopv.stackblitz.io',
         difficulty: 2,
