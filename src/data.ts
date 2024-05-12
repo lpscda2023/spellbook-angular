@@ -61,6 +61,11 @@ export const posts: ListElement[] = [
         link: 'https://stackblitz.com/edit/stackblitz-starters-usgxxa',
         difficulty: 0,
       },
+            {
+        title: 'I want to have a demo of a Subject',
+        link: 'https://stackblitz-starters-fyezp6.stackblitz.io',
+        difficulty: 0,
+      },
     ],
   },
   {
