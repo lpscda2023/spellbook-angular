@@ -61,6 +61,18 @@ export const posts: ListElement[] = [
         link: 'https://stackblitz.com/edit/stackblitz-starters-usgxxa',
         difficulty: 0,
       },
+      {
+        title:
+          'I want to transmit a message from child component to his parent with an Output',
+        link: 'https://stackblitz.com/edit/stackblitz-starters-gnm9gd?file=src%2Fapp%2Fapp.component.html',
+        difficulty: 1,
+      },
+      {
+        title:
+          'I want to add an item into a list, and store it in the localStorage',
+        link: 'https://stackblitz.com/edit/stackblitz-starters-4skimd?file=src%2Fapp%2Fapp.component.ts',
+        difficulty: 1,
+      },
     ],
   },
   {
