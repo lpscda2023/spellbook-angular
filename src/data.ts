@@ -16,23 +16,22 @@ export const posts: ListElement[] = [
       },
       {
         title: 'Display a hello world message in my application',
-        link: 'https://stackblitz-starters-k8lepf.stackblitz.io',
+        link: 'https://stackblitz.com/edit/stackblitz-starters-k8lepf.stackblitz.io',
         difficulty: 0,
       },
       {
-
         title: 'I want to use a template driven form',
-        link: 'https://stackblitz-starters-zpczzk.stackblitz.io',
-        difficulty: 1
+        link: 'https://stackblitz.com/edit/stackblitz-starters-zpczzk.stackblitz.io',
+        difficulty: 1,
       },
       {
         title: "Test a guard to access the admin's page",
-        link: 'https://stackblitz-starters-vpkopv.stackblitz.io',
+        link: 'https://stackblitz.com/edit/stackblitz-starters-vpkopv.stackblitz.io',
         difficulty: 2,
       },
       {
         title: 'I want to use a Reactive form',
-        link: 'https://stackblitz-starters-xjwvpp.stackblitz.io',
+        link: 'https://stackblitz.com/edit/stackblitz-starters-xjwvpp.stackblitz.io',
         difficulty: 2,
       },
       {
@@ -42,7 +41,7 @@ export const posts: ListElement[] = [
       },
       {
         title: 'Display a list of person from an array in my application',
-        link: 'https://stackblitz-starters-ybw6et.stackblitz.io',
+        link: 'https://stackblitz.com/edit/stackblitz-starters-ybw6et.stackblitz.io',
         difficulty: 3,
       },
       {
@@ -73,9 +72,9 @@ export const posts: ListElement[] = [
         link: 'https://stackblitz.com/edit/stackblitz-starters-4skimd?file=src%2Fapp%2Fapp.component.ts',
         difficulty: 1,
       },
-       {
+      {
         title: 'I want to have a demo of a Subject',
-        link: 'https://stackblitz-starters-fyezp6.stackblitz.io',
+        link: 'https://stackblitz.com/edit/stackblitz-starters-fyezp6.stackblitz.io',
         difficulty: 0,
       },
     ],
